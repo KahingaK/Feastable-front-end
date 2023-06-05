@@ -11,7 +11,7 @@ function Footer() {
           <FaFacebook size={30} className='text-white hover:text-yellow-500' />
           <FaTwitter size={30} className='text-white hover:text-yellow-500' />
           
-          <a href="https://github.com/jamnjeri/phase-4-final-project" className="text-gray-400 hover:text-gray-500">
+          <a href="https://github.com/KahingaK/Feastable-front-end.git" className="text-gray-400 hover:text-gray-500">
             <FaGithub size={30} className='text-white hover:text-yellow-500' />
           </a>
       </div>
